@@ -1,0 +1,138 @@
+body{
+	font-family: 'Raleway', sans-serif, Open Sans;
+}
+
+
+.contenedor {
+	max-width: 1070px;
+	margin: auto;
+
+}
+header{
+	background-image: url("../images/indexbanner-bg3.jpg");
+	background-size: cover;
+	width: 100%;	
+	color: white;
+
+}
+
+nav{
+	margin: 0% 1% 1% 1%;
+}
+nav ul li a{
+	text-decoration: none;
+}
+
+nav ul li {
+	list-style: none;
+	display: inline-block;
+}
+.menu{
+	float: right;
+}
+
+.header{
+	width: 40%;
+	border: solid pink 2px;
+	padding: 10% ;
+}
+.header h1{
+	font-size:  40px;
+	border: solid red 2px;	
+}
+
+.header p{
+	font-size: 16px;
+	border: solid red 2px;	
+
+}
+
+.buscador{
+	border: solid green 2px;
+}
+
+
+
+
+.tabla_precios{
+
+	background-image: url("../images/pricing-bg.jpg");
+	background-size: cover;
+}
+
+
+.pre_footer{
+
+	background-color: #142e3f;
+}
+
+footer{
+	background-color: #091722;
+}
+
+.servicios{
+	max-width: 1070px;
+	margin: auto;
+
+}
+.servicios article{
+	width: 20%;
+	display: inline-block;
+	margin: auto;
+}
+
+.section2{
+	max-width: 1070px;
+	margin: 0 auto;
+
+}
+
+.separador2 {
+	border: solid red 1px;
+	margin: 0 auto;
+}
+
+
+
+.section2 h1{
+	font-size: 30px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.section2 h4{
+	font-size: 16px;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+.section2 .phone{
+	border: red 1px solid;
+	width: 30%;
+		display: inline-block;
+
+}
+
+.section2 article{
+	width: 100%;
+	display: inline-block;
+	margin: auto;
+	border: solid pink 1px;
+	margin: 0% 0% 30% 0%;
+}
+
+.section2 article img{
+	border: solid yellow 1px;
+	display: inline-block;
+	float: right;
+
+}
+
+.section2 article h1{
+	font-size: 16px;
+	text-transform: uppercase;
+	text-align: right;}
+.section2 article p{
+	font-size: 13px;
+	text-align: right;}
