@@ -1,0 +1,32 @@
+body{
+	font-family: 'Raleway', sans-serif, Open Sans;
+
+
+}
+
+header{
+	background-image: url("../images/indexbanner-bg3.jpg");
+	background-size: cover;
+	height: 500px;
+	color: white;
+
+}
+
+header h1{
+	font-size:  	
+}
+
+.tabla_precios{
+
+	background-image: url("../images/pricing-bg.jpg");
+	background-size: cover;
+}
+
+.pre_footer{
+
+	background-color: #142e3f;
+}
+
+footer{
+	background-color: #091722;
+}
