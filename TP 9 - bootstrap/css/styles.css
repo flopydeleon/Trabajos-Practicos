@@ -1,0 +1,121 @@
+
+body{
+	font-family: "Raleway",sans-serif;
+  	font-size: 15px;
+
+
+}
+nav .active a:hover {
+    color: #555;
+    background-color: #F8F8F8;
+}
+
+
+
+.fondo-header{
+	background-image: url("../images/indexbanner-bg3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: ;
+	height: 550px;
+	}
+
+
+@media only screen and (max-width: 768px) {
+
+.fondo-header{
+	background-image: url("../images/indexbanner-bg3-768.jpg");
+
+}
+}
+.container h1 {
+	color:white;
+}
+
+.container p {
+	color:white;
+}
+
+
+.buscador{
+	margin-top: -3%;
+}
+.input-buscador{
+    font-size: 16px;
+    width: 75%;
+   	padding: 3%;
+    margin: 0;
+    border: 1px solid #e1e3e4;
+}
+
+.buscador form span{
+	background: #00abf0;
+    color: #fff;
+	width: 15%;
+	padding: 3%;
+	margin: 0;
+    text-transform: uppercase;
+}
+
+.buscador form span i{
+	margin-right: 20px;
+}
+
+
+
+.servicios{
+	padding: 2%;
+}
+
+.servicios article{
+    text-align: center;
+}
+
+.servicios article p{
+    color: #6e757b;
+    font-size: 12px;
+}
+
+.servicios article h2{
+    font-size: 15px;
+    font-weight: 700;
+    color: #0d2738;
+    text-transform: uppercase;
+}
+
+.servicios i{
+   	color: #6e757b;
+	margin-top: 80%;
+}
+
+.phone .titulo_bajada {
+	padding: 2% 2%;
+}
+
+.phone .titulo_bajada h1{
+	color: #0d2738;
+	font-weight: 700;
+}
+
+.phone .titulo_bajada h4{
+color: #6e757b;
+}
+
+.phone p {
+	color: #6e757b;
+}
+/* detalle izquierda */
+.phone .detalle_izq h2{
+	color: #0d2738;
+	font-size: 15px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+/* detalle derecha */
+.phone .detalle_der h2{
+	color: #0d2738;
+	font-size: 15px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
